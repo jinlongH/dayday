@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "7cda2b29-9368-4d9f-bdf5-2fb7624ba49e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "firePhoenix_logo": {
+      "ver": "1.0.3",
+      "uuid": "9dd7736e-bf41-4109-b460-0e8e315b2c30",
+      "rawTextureUuid": "7cda2b29-9368-4d9f-bdf5-2fb7624ba49e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 537,
+      "height": 133,
+      "rawWidth": 537,
+      "rawHeight": 133,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

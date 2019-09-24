@@ -1,0 +1,51 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "openmenu_dzb",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.33,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "button_menu  ": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 31
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": -32
+            }
+          ]
+        }
+      },
+      "layout_menu": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 1
+            }
+          ]
+        }
+      },
+      "layout_bibeimenu": {
+        "props": {
+          "scaleX": []
+        }
+      }
+    },
+    "props": {
+      "scaleX": []
+    }
+  },
+  "events": []
+}
